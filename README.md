@@ -27,7 +27,7 @@ We welcome contributions from everyone! Whether you are a seasoned developer or 
 1. **Fork the Repository**: Click the "Fork" button at the top-right corner of this page to create a copy of this repository in your GitHub account.
 2. **Clone the Repository**: Clone your forked repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/<your-username>/scrolls.git
+   git clone https://github.com/scrolls-of-lyceum/scrolls.git
    ```
 3. **Create a Branch**: Create a new branch for your changes.
    ```bash
