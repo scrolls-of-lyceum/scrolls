@@ -61,6 +61,6 @@ Happy learning!
 ## What we learned
 
 - **Docker**
-  - `compose.md` - A guide to Docker Compose.
-  - `networks.md` - Detailed information about Docker networks.
-  - `volumes.md` - Everything you need to know about Docker volumes.
+  - `compose.md` - A guide to Docker Compose. [Read](./Docker/compose.md)
+  - `networks.md` - Detailed information about Docker networks. [Read](./Docker/networks.md)
+  - `volumes.md` - Everything you need to know about Docker volumes. [Read](./Docker/volumes.md)
