@@ -4,6 +4,8 @@
 
 JavaScript is a high-level, dynamic programming language that is widely used in web development. It was designed to add interactivity and dynamic behavior to web pages. JavaScript is a core technology of the World Wide Web, alongside HTML and CSS. It enables the development of client-side scripts to interact with the user, control the browser, communicate asynchronously, and alter document content displayed.
 
+<img src="../_static/picture-of-javascript-documentation.jpeg" width="100%" />
+
 ## History
 
 ### Creation (1995)
