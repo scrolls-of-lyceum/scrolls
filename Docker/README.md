@@ -8,6 +8,9 @@
 
 Docker is a platform that enables developers to automate the deployment, scaling, and management of applications in containerized environments. Containers package an application and its dependencies into a single unit that runs reliably in any computing environment, ensuring consistency across development, testing, and production.
 
+<img src="../_static/picture-of-docker-documentation.jpeg" width="100%" />
+
+
 ### Key Features of Docker
 
 1. **Containers**:
